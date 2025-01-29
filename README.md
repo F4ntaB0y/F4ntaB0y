@@ -10,20 +10,16 @@ As a 4th semester student majoring in Informatics at UIN Siber Syekh Nurjati Cir
 
 
 ## 💻 Coding Skills:
-[![My Skills](https://skillicons.dev/icons?i=python)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,markdown,python)](#)
 
 
 <!-- ##  🌟 Another Skills:
-- **Editing:** After Effect, Ilustrator, Adobe PhotoShop, Canva, Picart  
-- **Tools and Design:** VSCode, GitHub, Adobe, Cheatengine
+- **Editing:** After Effect, Ilustrator, Adobe PhotoShop, Canva, Picsart  
+- **Tools and Design:** VSCode, GitHub, Adobe, CheatEngine, Nano
 -->
 
 
  ## 📊 GitHub Stats
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=F4ntaB0y&radius=16&theme=react&area=true&order=5" height="auto" alt="by F4ntaB0y"/> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=F4ntaB0y&theme=github-compact&radius=16" height="auto" alt="by F4ntaB0y"/>
-
-
 <!-- snake -->
 <div align="center">
   <picture>
@@ -34,7 +30,9 @@ As a 4th semester student majoring in Informatics at UIN Siber Syekh Nurjati Cir
 </div>
 <br>
 <div align="left">
-
+ 
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=F4ntaB0y&radius=16&theme=react&area=true&order=5" height="auto" alt="by F4ntaB0y"/> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=F4ntaB0y&theme=github-compact&radius=16" height="auto" alt="by F4ntaB0y"/>
 
 <!-- GitHub Stats and Streak -->
 <p align="center">
