@@ -10,7 +10,7 @@ As a 4th semester student majoring in Informatics at UIN Siber Syekh Nurjati Cir
 
 
 ## 💻 Coding Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,python)](#)
 
 
 <!-- ##  🌟 Another Skills:
