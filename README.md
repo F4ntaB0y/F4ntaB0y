@@ -35,14 +35,14 @@ As a 4th semester student majoring in Informatics at UIN Siber Syekh Nurjati Cir
 <!-- GitHub Stats and Streak -->
 <p align="center">
  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=F4ntaB0y&radius=16&theme=react&area=true&order=5" height="auto" alt="by F4ntaB0y"/> -->
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=F4ntaB0y&theme=github-compact&radius=16" height="auto" width="auto" alt="by F4ntaB0y" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=F4ntaB0y&theme=github-compact&radius=16" width="100%" alt="by F4ntaB0y" />
  <br>
  
- <img src="https://github-readme-stats.vercel.app/api?username=F4ntaB0y&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="auto" />
+ <img src="https://github-readme-stats.vercel.app/api?username=F4ntaB0y&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="100%" />
  <br>
  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=F4ntaB0y&theme=radical" alt="GitHub Streak" width="auto" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=F4ntaB0y&theme=radical" alt="GitHub Streak" width="100%" />
  <br>
  
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F4ntaB0y&layout=compact&theme=radical" alt="Top Languages" width="auto" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F4ntaB0y&layout=compact&theme=radical" alt="Top Languages" width="100%" />
 </p>
