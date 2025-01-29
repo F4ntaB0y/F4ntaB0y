@@ -19,7 +19,7 @@ As a 4th semester student majoring in Informatics at UIN Siber Syekh Nurjati Cir
 -->
 
 
- ## 📊 GitHub Stats
+ ## 📊 GitHub Stats:
 <!-- snake -->
 <div align="center">
   <picture>
