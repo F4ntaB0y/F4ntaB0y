@@ -39,10 +39,10 @@ As a 4th semester student majoring in Informatics at UIN Siber Syekh Nurjati Cir
 <!-- GitHub Stats and Streak -->
 <p align="center">
   <a href="https://github.com/F4ntaB0y">
-    <img src="https://github-readme-stats.vercel.app/api?username=F4ntaB0y&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=F4ntaB0y&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="100%" />
   </a>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F4ntaB0y&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F4ntaB0y&theme=radical" alt="GitHub Streak" width="100%" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F4ntaB0y&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F4ntaB0y&layout=compact&theme=radical" alt="Top Languages" width="100%" />
 </p>
