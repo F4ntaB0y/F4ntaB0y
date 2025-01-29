@@ -4,7 +4,7 @@
 
 As a 4th semester student majoring in Informatics at UIN Siber Syekh Nurjati Cirebon, I have a huge passion for technology and am always eager to stay updated on the latest trends in the world. I have some social media! Instagram, LinkedIn, and TikTok. Let's be friends! 
 <!-- ## 🌐 Socials: -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryapangestu23) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](http://www.linkedin.com/in/muh-arya-pangestu-3685822a7) [![TikTok](https://img.shields.io/badge/TikTok-%230077B5.svg?logo=TikTok&logoColor=black)](http://tiktok.com/@f4ntab0y) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryapangestu23) [![TikTok](https://img.shields.io/badge/TikTok-%230077B5.svg?logo=TikTok&logoColor=black)](http://tiktok.com/@f4ntab0y) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](http://www.linkedin.com/in/muh-arya-pangestu-3685822a7)
  
 <!-- ## 💻 Technical Skills:
 
