@@ -35,9 +35,18 @@ As a 4th semester student majoring in Informatics at UIN Siber Syekh Nurjati Cir
 <br>
 <div align="left">
 
+
 <!-- GitHub Stats and Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=f4ntab0y&theme=radical" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=f4ntab0y&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
 </p>
+
+  <!-- 
+  [![Aestu GitHub stats](https://github-readme-stats.vercel.app/api?username=F4ntaB0y&show_icons=true&theme=radical&count_private=true)](https://github.com/F4ntab0y/github-readme-stats)
+  <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f4ntab0y&layout=compact&theme=radical&hide=css)](https://github.com/F4ntab0y/github-readme-stats)
+  -->
+
