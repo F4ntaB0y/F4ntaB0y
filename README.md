@@ -6,7 +6,7 @@ As a 4th semester student majoring in Informatics at UIN Siber Syekh Nurjati Cir
 
 
 <!-- Socials: -->
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryapangestu23) [![TikTok](https://img.shields.io/badge/TikTok-%230077B5.svg?logo=TikTok&logoColor=black)](http://tiktok.com/@f4ntab0y) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/muhamad-arya-pangestu-3685822a7)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryapangestu23) [![TikTok](https://img.shields.io/badge/TikTok-%230077B5.svg?logo=TikTok&logoColor=black)](http://tiktok.com/@f4ntab0y) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/F4ntaB0y)
 
 
 ## 💻 Coding Skills:
@@ -30,17 +30,19 @@ As a 4th semester student majoring in Informatics at UIN Siber Syekh Nurjati Cir
 </div>
 <br>
 <div align="left">
- 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=F4ntaB0y&radius=16&theme=react&area=true&order=5" height="auto" alt="by F4ntaB0y"/> -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=F4ntaB0y&theme=github-compact&radius=16" height="auto" alt="by F4ntaB0y"/>
+
 
 <!-- GitHub Stats and Streak -->
 <p align="center">
-  <a href="https://github.com/F4ntaB0y">
-    <img src="https://github-readme-stats.vercel.app/api?username=F4ntaB0y&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="100%" />
-  </a>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F4ntaB0y&theme=radical" alt="GitHub Streak" width="100%" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F4ntaB0y&layout=compact&theme=radical" alt="Top Languages" width="100%" />
+ <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=F4ntaB0y&radius=16&theme=react&area=true&order=5" height="auto" alt="by F4ntaB0y"/> -->
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=F4ntaB0y&theme=github-compact&radius=16" height="auto" width="auto" alt="by F4ntaB0y" />
+ <br>
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=F4ntaB0y&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="auto" />
+ <br>
+ 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=F4ntaB0y&theme=radical" alt="GitHub Streak" width="auto" />
+ <br>
+ 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=F4ntaB0y&layout=compact&theme=radical" alt="Top Languages" width="auto" />
 </p>
