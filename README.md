@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=F4ntaB0y&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-# Hi 👋! I'm Aestu
+# Hi 👋 I'm Aestu
 
 As a 4th semester student majoring in Informatics at UIN Siber Syekh Nurjati Cirebon, I have a huge passion for technology and am always eager to stay updated on the latest trends in the world. I have some social media! Instagram, LinkedIn, and TikTok. Let's be friends! 
 <!-- ## 🌐 Socials: -->
