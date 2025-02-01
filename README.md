@@ -2,13 +2,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=F4ntaB0y&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
 # Hi 👋 I'm Aestu
-I'm a 4th semester student majoring Informatics at UIN Siber Syekh Nurjati Cirebon,  I have a deep passion for technology and always strive to stay updated with the latest trends. I have some social media! Instagram and TikTok. Let's connect and share insights!
+I'm a 4th semester student majoring Informatics at UIN Siber Syekh Nurjati Cirebon,  I have a deep passion for technology and always strive to stay updated with the latest trends. I have some social media! Instagram, TikTok and LinkedIn. Let's connect and share insights!
 
 
 <!-- Socials: -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryapangestu23)
 [![TikTok](https://img.shields.io/badge/TikTok-%230077B5.svg?logo=TikTok&logoColor=black)](http://tiktok.com/@f4ntab0y)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/F4ntaB0y) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/F4ntaB0y)
 
 
 ## 💻 Coding Skills:
