@@ -15,7 +15,8 @@ I'm a 4th semester student majoring Informatics,  I have a deep passion for tech
 [![My Skills](https://skillicons.dev/icons?i=html,markdown,python)](#)
 
 
-<!-- ##  🌟 Another Skills:
+<!--
+##  🌟 Another Skills:
 - **Editing:** After Effect, Ilustrator, Adobe PhotoShop, Canva, Picsart  
 - **Tools and Design:** VSCode, GitHub, Adobe, CheatEngine, Nano
 -->
