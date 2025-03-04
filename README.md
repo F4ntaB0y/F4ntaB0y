@@ -12,7 +12,7 @@ As a 4th semester student majoring Informatics,  I have a deep passion for techn
 
 
 ## 💻 Coding Skills:
-[![My Skills](https://skillicons.dev/icons?i=html,markdown,python)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,markdown,python,cpp)](#)
 
 
 <!--
