@@ -7,7 +7,7 @@ As a 4th semester student majoring Informatics,  I have a deep passion for techn
 
 <!-- Socials: -->
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryapangestu23)
-[![TikTok](https://img.shields.io/badge/TikTok-%230077B5.svg?logo=TikTok&logoColor=black)](http://tiktok.com/@f4ntab0y)
+[![TikTok](https://img.shields.io/badge/TikTok-%230077B5.svg?logo=TikTok&logoColor=black)](tiktok.com/@ayaayra23)
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/F4ntaB0y)-->
 
 
